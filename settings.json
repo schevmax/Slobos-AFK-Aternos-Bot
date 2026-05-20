@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kybNATO.aternos.me",
+    "ip": "kybNATO.aternos.me:16663",
     "port": 16663,
     "version": "26.1.2",
     "try-creative": false
